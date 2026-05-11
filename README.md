@@ -1,5 +1,19 @@
 # DASHBOARD-DEVELOPMENT
 
+*COMPANY*: CODETECH IT SOLUTIONS
+
+*NAME*: SATISH CHANDRA BARICK
+
+*INTERN ID*: CTIS9149
+
+*DOMAIN*: DATA ANALYTICS
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+# DESCRIPTION :
+
 # **Sales Dashboard Development using Tableau**
 
 This project focuses on the development of a **fully functional and interactive Sales Dashboard** using **Tableau Desktop** for analyzing and visualizing business sales data. The main objective of the project is to transform raw sales data into meaningful visual insights that help users understand business performance and make informed decisions. The project report and dashboard structure demonstrate multiple analytical views and interactive visualizations. 
