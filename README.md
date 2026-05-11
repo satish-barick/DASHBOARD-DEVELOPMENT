@@ -93,3 +93,7 @@ In real-world industries such as **retail, e-commerce, banking, and marketing**,
 # **Conclusion**
 
 This project successfully demonstrates how **Tableau** can be used to build an effective and interactive business intelligence dashboard. The dashboard converts raw data into actionable insights using charts, filters, KPIs, and visual analytics. Overall, the project provides a professional solution for analyzing sales performance and supports smarter business decision-making.
+
+*OUTPUT*
+
+<img width="1919" height="995" alt="Image" src="https://github.com/user-attachments/assets/c831fd8c-64d3-4e04-9428-feb4acfd0d1b" />
